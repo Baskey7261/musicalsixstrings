@@ -120,7 +120,7 @@ a {
 
 p {
     font-size: .9rem;
-    font-weight: 300;
+    font-weight: 100;
     font-style: normal;
     line-height: 1.6em;
     margin: 0rem 0px 0px 0px;
@@ -154,11 +154,12 @@ h2 {
 
 h3 {
     font-size: 1.3rem;
-    font-weight: 400;
+    font-weight: 600;
     font-style: normal;
     line-height: 1.7rem;
+    letter-spacing: .055rem;
     margin: 0px 0px 0px 0px;
-    color: rgb(113, 110, 105);
+    color: rgb(100, 100, 100);
 }
 
 h4 {
